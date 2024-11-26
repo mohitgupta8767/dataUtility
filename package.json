@@ -39,5 +39,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "data utility tool",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  },
+  "author": "",
+  "license": "ISC"
 }
